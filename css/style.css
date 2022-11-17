@@ -1,0 +1,26 @@
+.container-main {}
+
+.display-7 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #9A9A9A;
+}
+
+.nav-link {
+    margin: 40px;
+}
+
+.col-6 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.col-12 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.ola{
+    padding-right: 250px;
+}

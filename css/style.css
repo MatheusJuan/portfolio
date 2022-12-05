@@ -1,3 +1,7 @@
+.container-fluid{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
 .display-7 {
     font-style: normal;
     font-weight: 400;
@@ -6,19 +10,46 @@
     color: #9A9A9A;
 }
 
-.nav-link {
-    margin: 40px;
-}
-
-.col-6 {
+.img-principal {
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
 
-.col-xl-6 {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
+.display-7 {
+    text-align: center;
 }
-.ola{
-    padding-right: 250px;
+
+.h3-skills,
+.h5-skills,
+.d-flex {
+    text-align: center;
+}
+
+.h5-skills {
+    font-weight: 200;
+    font-size: smaller;
+    color: rgb(154, 154, 154);
+}
+
+.h3-skills {
+    font-size: larger;
+    color: rgb(154, 154, 154);
+}
+.row-skills{
+    background-color: rgb(249, 249, 249);
+    padding: 50px;
+    border-radius: 50px;
+}
+.row-skills2{
+    padding-right: 150px;
+    padding-left: 150px;
+}
+.conhecimentos, .hardskills {
+    font-family: 'Lufga';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 206.9%;
+    color: rgb(154, 154, 154);
+    text-align: center;
 }
